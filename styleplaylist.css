@@ -1,0 +1,28 @@
+@media screen and (min-width: 374px) and (max-width: 375px){
+    .imagesplateformes{
+        width: 15px;}
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+img{
+    position: relative;
+    border-radius: 10px;
+    display: inline-block;
+    width: 15%;
+}
+figcaption{
+    font-size: 17px;
+    font-family: Scto Grotesk A,sans-serif;
+}
+h2{
+    font-family: Scto Grotesk A,sans-serif;
+    text-align: center;
+}
+.imagesplateformes{
+    text-align:center;
+    border-radius: 20px;
+}

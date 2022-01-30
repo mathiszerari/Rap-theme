@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-family: Scto Grotesk A,sans-serif;
+}
+h2{
+    text-align: center;
+}
+img{
+    position: relative;
+    border-radius: 10px;
+    display: inline-block;
+    width: 15%;
+    box-shadow: 6px 6px 30px black;
+}

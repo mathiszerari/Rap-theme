@@ -1,0 +1,190 @@
+@media screen and (max-width: 318px){
+    img{
+        width: 50px;}
+    h6{
+        font-size: 18px;}
+    h2{
+        font-size: 85%;}
+    h3{
+        font-size: 85%;}
+    h4{
+        font-size: 85%;}
+    h5{
+        font-size: 85%;}
+}
+@media screen and (min-width: 319px) and (max-width: 373px){
+    img{
+        width: 60px;}
+    h6{
+        font-size: 20px;}
+    h2{
+        font-size: 93%;}
+    h3{
+        font-size: 93%;}
+    h4{
+        font-size: 93%;}
+    h5{
+        font-size: 93%;}
+}
+@media screen and (min-width: 374px) and (max-width: 375px){
+    img{
+        width: 75px;}
+    h6{
+        font-size: 23px;}
+    h2{
+        font-size: 100%;}
+    h3{
+        font-size: 100%;}
+    h4{
+        font-size: 100%;}
+    h5{
+        font-size: 100%;}
+}
+@media screen and (min-width: 376px) and (max-width: 411px){
+    img{
+        width: 80px;}
+    h6{
+        font-size: 22px;}
+    h2{
+        font-size: 110%;}
+    h3{
+        font-size: 110%;}
+    h4{
+        font-size: 110%;}
+    h5{
+        font-size: 110%;}
+}
+@media screen and (min-width: 412px) and (max-width: 414px){
+    img{
+        width: 80px;}
+    h6{
+        font-size: 25px;}
+    h2{
+        font-size: 120%;}
+    h3{
+        font-size: 120%;}
+    h4{
+        font-size: 120%;}
+    h5{
+        font-size: 120%;}
+}
+@media screen and (min-width: 415px) and (max-width: 765px){
+    img{
+        width: 85px;}
+    h6{
+        font-size: 25px;}
+    h2{
+        font-size: 125%;}
+    h3{
+        font-size: 125%;}
+    h4{
+        font-size: 125%;}
+    h5{
+        font-size: 125%;}
+}
+@media screen and (min-width: 766px) and (max-width: 768px){
+    img{
+        width: 95px;}
+    h6{
+        font-size: 33px;}
+    h2{
+        font-size: 135%;}
+    h3{
+        font-size: 135%;}
+    h4{
+        font-size: 135%;}
+    h5{
+        font-size: 135%;}
+}
+@media screen and (min-width: 769px) and (max-width: 900px){
+    img{
+        width: 100px;}
+    h6{
+        font-size: 35px;}
+    h2{
+        font-size: 145%;}
+    h3{
+        font-size: 145%;}
+    h4{
+        font-size: 145%;}
+    h5{
+        font-size: 145%;}
+}
+@media screen and (min-width: 901px){
+    img{
+        width: 110px;}
+    h6{
+        font-size: 38px;}
+    h2{
+        font-size: 150%;}
+    h3{
+        font-size: 150%;}
+    h4{
+        font-size: 150%;}
+    h5{
+        font-size: 150%;}
+}
+    
+body{
+    padding-top: 11px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+    
+h1{
+    text-align: center;
+    margin-top: -10px;
+}
+img{
+    position: relative;
+    display: inline-block;
+    height: auto;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+h2{
+    position: fixed;
+    top: 4px;
+    left: 1px;
+    text-decoration: none;
+    font-family: Anton, sans-serif;
+}
+h3{
+    position: fixed;
+    top: 0;
+    right: 1px;
+    text-decoration: none;
+    font-family: Anton, sans-serif;
+}
+h4{
+    position: fixed;
+    bottom: 0;
+    left: 1px;
+    text-decoration: none;
+    font-family: Anton, sans-serif;
+}
+h5{
+    position: fixed;
+    bottom: -4px;
+    right: 1px;
+    text-decoration: none;
+    font-family: Anton, sans-serif;
+}
+    
+h6{
+    position: relative;
+    text-align: center;
+    transform: translateY(-50%);
+    margin-top: 230px;
+    letter-spacing: .17em;
+    font-family: Anton, sans-serif;
+}
+
+.button1
+{
+    color: black;
+    text-decoration: none;
+}
